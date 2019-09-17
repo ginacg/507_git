@@ -1,18 +1,5 @@
 
 this is a file on github
 
+Sam edits the file again
 
-This is an edit on a local computer
-
-making anther change
-
-<<<<<<< HEAD
-
-i "changing yet again"
-
-
-i "comment" Exit
-
-=======
-merging practice
->>>>>>> 42a3a50e34f6403331c4769402f20ac4b0848d66
